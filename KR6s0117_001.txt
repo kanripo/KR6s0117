@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:48.316699
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:43
 #+TITLE: 福州溫州台州求得經律論疏記外書等目錄
 #+PROPERTY: CBETA_ID T55n2170
 #+PROPERTY: ID KR6s0117
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2170
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0117_T_000-1092c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0117_T_001-1092c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2170¶
-
- (外題)福州溫州台州求得經律論疏¶
+No. 2170¶
+(外題)福州溫州台州求得經律論疏¶
 記外書等目錄¶
 ¶
 
